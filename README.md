@@ -1,60 +1,54 @@
 <div align="center">
 
-<!-- 타이핑 애니메이션. lines= 에 세미콜론(;)으로 여러 문장을 넣으면 순환 -->
-<a href="suseong.org">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1200&color=888888&center=true&vCenter=true&width=520&height=60&lines=⬜NAME⬜;⬜Backend+Engineer⬜;⬜한+줄+더+(공백은+%2B)⬜" alt="typing" />
+<a href="https://suseong.org" title="Go to my homepage">
+  <img
+    alt="name"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=520&height=50&lines=Suseong+Park"
+  />
+  <br />
+  <img
+    alt="roles"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=F75C7E&center=true&vCenter=true&width=520&height=36&lines=Security+Engineer"
+  />
 </a>
 
 <br>
 
-[![Blog](https://img.shields.io/badge/Blog-555?style=flat-square&logo=github&logoColor=white)](suseong.tistory.com)
-[![Email](https://img.shields.io/badge/Email-555?style=flat-square&logo=gmail&logoColor=white)](mailto:suseong0401@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-555?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suseong-park-b74aa1372/)
+[![Tistory](https://img.shields.io/badge/tistory-%23FF5A4A.svg?style=for-the-badge&logo=tistory&logoColor=white)](https://suseong.tistory.com)
+[![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suseong0401@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo%3D&logoColor=white)](https://www.linkedin.com/in/suseong-park-b74aa1372/)
 
 </div>
 
 <br>
 
----
-
-<br>
-
 ### About
-
-<!--
-**Currently** &nbsp;&nbsp;&nbsp; ⬜ 지금 하는 일 ⬜<br>
-**Learning** &nbsp;&nbsp;&nbsp;&nbsp; ⬜ 배우는 것 ⬜<br>
-**Interests** &nbsp;&nbsp;&nbsp;&nbsp; ⬜ 관심 주제 ⬜<br>
-**Based in** &nbsp;&nbsp;&nbsp;&nbsp; ⬜ 지역 ⬜
+<!-- 
+**Currently** &nbsp;&nbsp;&nbsp; <br>
+**Learning** &nbsp;&nbsp;&nbsp;&nbsp; <br>
+**Interests** &nbsp;&nbsp;&nbsp;&nbsp; <br>
+**Based in** &nbsp;&nbsp;&nbsp;&nbsp;
 -->
+
 <br>
 
 ### Stack
-
-<!-- 아이콘 이름은 https://simpleicons.org 에서 검색 -->
-
-![Python](https://img.shields.io/badge/Python-555?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-555?style=flat-square&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-555?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-555?style=flat-square&logo=amazonwebservices&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 <br>
 
 ### Problem Solving
-
 <a href="https://solved.ac/suseong0401">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=suseong0401" alt="solved.ac tier" />
 </a>
 
 <br>
-<br>
-
-### Stats
-
-<img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=suseong41&show_icons=true&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888&icon_color=888888&hide_title=true" />
-<img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suseong41&layout=compact&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888" />
-
 <br>
 <br>
 
