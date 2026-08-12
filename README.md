@@ -58,6 +58,27 @@
 
 ## Projects
 
+## Co-work
+
+<table>
+  <tr>
+    <th width="240" align="left">Team</th>
+    <th width="520" align="left">Description</th>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/jnucpe20">invictus</a></td>
+    <td width="520">전남대학교 컴퓨터공학전공 캡스톤 프로젝트. <br>통합형 보안 스마트 도어락</td>
+  </tr>
+  <tr>
+    <td width="240">NunEulGamja</td>
+    <td width="520">작성 예정 </td>
+  </tr>
+  <tr>
+    <td width="240">mon47</td>
+    <td width="520">작성 예정</td>
+  </tr>
+</table>
+
 ### BoB 14th
 
 <table>
