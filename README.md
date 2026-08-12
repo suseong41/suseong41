@@ -168,12 +168,16 @@
     <td width="520">Galaxy S10 nexmon 기반 WiFi 스캐너 · 무선 보안 점검 도구 (Qt)</td>
   </tr>
   <tr>
-    <td width="240"><a href="https://github.com/suseong41/suseong-html-analyzer">suseong-html-analyzer</a></td>
-    <td width="520">HTML 위험 분석기 (보류)</td>
+    <td width="240"><a href="https://github.com/suseong41/my-first-go-lang">my-first-go-lang</a></td>
+    <td width="520">go 언어를 통한 TCP server & client, 패킷 캡처 구현</td>
   </tr>
   <tr>
     <td width="240"><a href="https://github.com/suseong41/my_homepage">my_homepage</a></td>
     <td width="520">개인 웹페이지</td>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/suseong41/suseong-html-analyzer">suseong-html-analyzer</a></td>
+    <td width="520">HTML 위험 분석기 (보류)</td>
   </tr>
 </table>
 
