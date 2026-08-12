@@ -56,6 +56,127 @@
 <br>
 <br>
 
+## Projects
+
+### BoB 14th
+
+<table>
+  <tr>
+    <th width="240" align="left">Repository</th>
+    <th width="520" align="left">Description</th>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/suseong41/bob-airodump">bob-airodump</a></td>
+    <td width="520">airodump-ng 를 따라 만들어본 프로그램</td>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/suseong41/bob-CsaAttack">bob-CsaAttack</a></td>
+    <td width="520">Channel Switch Announcement 를 활용한 무선 네트워크 도구</td>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/suseong41/bob-deauthattack">bob-deauthattack</a></td>
+    <td width="520">Deauth Attack 을 활용한 무선 네트워크 도구</td>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/suseong41/bob-filesystem">bob-filesystem</a></td>
+    <td width="520">파일시스템 파서</td>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/suseong41/bob-ossds">bob-ossds</a></td>
+    <td width="520">시스템 보안 과제 제출물</td>
+  </tr>
+</table>
+
+<details>
+<summary>기초 실습 9개 더 보기</summary>
+
+<table>
+  <tr>
+    <th width="240" align="left">Repository</th>
+    <th width="520" align="left">Description</th>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/suseong41/bob-osi-and-tcp">bob-osi-and-tcp</a></td>
+    <td width="520">OSI 7 계층 학습</td>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/suseong41/echo-client-server">echo-client-server</a></td>
+    <td width="520">간단한 TCP/IP 서버 · 클라이언트</td>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/suseong41/pcap-test">pcap-test</a></td>
+    <td width="520">패킷 캡처</td>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/suseong41/simple-pcap">simple-pcap</a></td>
+    <td width="520">간단한 수신 패킷 출력 프로그램</td>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/suseong41/pcap-swapArpTable">pcap-swapArpTable</a></td>
+    <td width="520">ARP 스푸핑 기초</td>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/suseong41/arp-spoofing">arp-spoofing</a></td>
+    <td width="520">ARP 스푸핑 학습</td>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/suseong41/netfilter-test">netfilter-test</a></td>
+    <td width="520">netfilter 학습</td>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/suseong41/bob-fnb">bob-fnb</a></td>
+    <td width="520">컴파일러 기초</td>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/suseong41/sum-nbo">sum-nbo</a></td>
+    <td width="520">바이트 정렬</td>
+  </tr>
+</table>
+
+</details>
+
+### Personal
+
+<table>
+  <tr>
+    <th width="240" align="left">Repository</th>
+    <th width="520" align="left">Description</th>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/suseong41/SuNiffing">SuNiffing</a></td>
+    <td width="520">Galaxy S10 nexmon 기반 WiFi 스캐너 · 무선 보안 점검 도구 (Qt)</td>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/suseong41/suseong-html-analyzer">suseong-html-analyzer</a></td>
+    <td width="520">HTML 위험 분석기 (보류)</td>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/suseong41/my_homepage">my_homepage</a></td>
+    <td width="520">개인 웹페이지</td>
+  </tr>
+</table>
+
+### School
+
+<table>
+  <tr>
+    <th width="240" align="left">Repository</th>
+    <th width="520" align="left">Description</th>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/suseong41/socket_test">socket_test</a></td>
+    <td width="520">socket · MFC · 암호화</td>
+  </tr>
+  <tr>
+    <td width="240"><a href="https://github.com/suseong41/app_MILestone">app_MILestone</a></td>
+    <td width="520">React Native 를 사용한 앱 개발</td>
+  </tr>
+</table>
+
+<br>
+<br>
+<br>
+
 ## Problem Solving
 
 <a href="https://solved.ac/suseong0401">
