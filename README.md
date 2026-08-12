@@ -75,6 +75,7 @@
   </tr>
   <tr>
     <td width="240">mon47</td>
+    <td width="240"><a href="https://mon47.com">mon47</a></td>
     <td width="520">작성 예정</td>
   </tr>
 </table>
